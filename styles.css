@@ -36,4 +36,14 @@ h1{
   color: white;
 }
 
+.btn{
+  font-family: "Courier Prime", monospace;
+  text-align: center;
+  border: 2px solid;
+  color: black;
+  background-color: blue;
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
 
