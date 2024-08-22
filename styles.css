@@ -5,6 +5,7 @@ body{
   font-weight: 400;
   font-style: normal;
 }
+
 h1{
   text-align: center;
 }
@@ -32,7 +33,7 @@ h1{
   cursor: pointer;
 }
 
-.sidenav a:hover {
+.nav a:hover {
   color: white;
 }
 
@@ -52,6 +53,11 @@ h1{
   right: 25px;
   font-size: 36px;
   margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .nav {padding-top: 15px;}
+  .nav a {font-size: 18px;}
 }
 
 #move {
