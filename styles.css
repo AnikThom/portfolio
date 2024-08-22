@@ -60,6 +60,15 @@ h1{
   .nav a {font-size: 18px;}
 }
 
+#menuBtn{
+  background-color: lightblue;
+  width: 50px;
+  height: 50px;
+  border: 5px solid;
+  padding: 5px;
+  text-align: center;
+}
+
 #move {
   transition: margin-left .5s;
   padding: 16px;
