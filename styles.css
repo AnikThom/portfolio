@@ -54,3 +54,8 @@ h1{
   margin-left: 50px;
 }
 
+#move {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
