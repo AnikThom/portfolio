@@ -71,7 +71,7 @@ h1{
 
 .menuBtn:hover{
   background-color: blue;
-  border: 5px solid;
+  border: 5px black;
   color: white;
 }
 
