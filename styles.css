@@ -69,7 +69,7 @@ h1{
   text-align: center;
 }
 
-.menuBtn: hover span{
+.menuBtn:hover{
   background-color: blue;
   color: white;
 }
