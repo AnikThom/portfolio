@@ -24,6 +24,7 @@ h1{
   overflow: hidden;
   transition: 0.5s;
   padding-top: 60px;
+  text-align: center;
 }
 
 .nav a{
