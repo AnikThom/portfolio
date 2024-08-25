@@ -16,6 +16,7 @@ h1{
 .nav{
   height: 30px;
   width: 0;
+  margin-bottom: 50px;
   position: fixed;
   z-index: 1;
   top: 0;
