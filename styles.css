@@ -5,6 +5,7 @@ body{
   font-weight: 400;
   font-style: normal;
   color: #243B4A;
+  background-color:#A3B2C5;
 }
 
 h1{
@@ -59,8 +60,8 @@ h1{
 }
 
 .menuBtn{
-  background-color: #87BCDE;
-  color: #243B4A;
+  background-color: #2D4654;
+  color: #87BCDE;
   border-radius: 15px 40px 25px 5px;
   width: 5%;
   height: 50px;
