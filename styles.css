@@ -20,7 +20,7 @@ h1{
   position: fixed;
   border-radius: 15px 25px 25px 5px;
   z-index: 1;
-  top: 0;
+  top: 10px;
   left: 0;
   background-color: #2D4654;
   overflow: hidden;
