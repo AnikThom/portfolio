@@ -24,7 +24,6 @@ h1{
   left: 10px;
   right: 10px;
   background-color: #2D4654;
-  transition: 0.5s;
   text-align: center;
 }
 
@@ -36,12 +35,6 @@ h1{
   display: inline-block;
   transition: 0.3s;
   cursor: pointer;
-}
-
-
-@media screen and (max-height: 450px) {
-  .nav {padding-top: 15px;}
-  .nav a {font-size: 18px;}
 }
 
 @keyframes cursor-blink {
