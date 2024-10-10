@@ -12,6 +12,14 @@ h1{
   font-weight: normal;
   text-align: center;
   margin-top: 20px;
+} 
+
+h2{
+  text-align: center;
+}
+
+a{
+  white-space: no-wrap;
 }
 
 .nav{
