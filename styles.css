@@ -1,16 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-
-body:before {
-  border: 25px solid white;
-  content: "";
-  width: 100vw;
-  height: 100vh;
-  display: block;
-  position: fixed;
-  z-index: 99999;
-}
-
 body{
   font-family: "Courier Prime", monospace;
   font-weight: 400;
@@ -20,6 +9,7 @@ body{
 }
 
 h1{
+  font-weight: normal;
   text-align: center;
   margin-top: 20px;
 }
