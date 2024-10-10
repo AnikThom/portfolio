@@ -44,10 +44,8 @@ a{
   color: #C5CFC5;
 }
 
-@keyframes cursor-blink {
-  0% {
-    opacity: 0;
-  }
+.centerimg{
+  text-align: center;
 }
 
 .blinking h1::after {
@@ -57,4 +55,10 @@ a{
   background: #2D4654;
   display: inline-block;
   animation: cursor-blink 1.5s steps(2) infinite;
+}
+
+@keyframes cursor-blink {
+  0% {
+    opacity: 0;
+  }
 }
