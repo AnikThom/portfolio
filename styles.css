@@ -45,6 +45,7 @@ a{
 
 .centerimg{
   text-align: center;
+  display: block;
 }
 
 .blinking h1::after {
