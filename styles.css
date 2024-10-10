@@ -5,9 +5,14 @@ body{
   font-weight: 400;
   font-style: normal;
   color: #243B4A;
+}
+
+*{
+
   border: 30px solid white;
   background-color: #A3B2C5;
   box-sizing: border-box;
+  
 }
 
 
