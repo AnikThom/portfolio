@@ -10,19 +10,19 @@ body{
 
 h1{
   text-align: center;
-  margin-top: 0px;
+  margin-top: 20px;
 }
 
 .nav{
   height: 25px;
   width: 100%;
-  margin-left: 2px;
-  margin-right: 2px;
+  margin: 2px;
   position: fixed;
   padding: 10px 10px 10px 10px;
   z-index: 1;
   top: 10px;
-  left:10px;
+  left: 10px;
+  right: 10px;
   background-color: #2D4654;
   transition: 0.5s;
   text-align: center;
@@ -52,8 +52,10 @@ h1{
 
 .blinking h1{
   display: flex;
+  text-align: center;
   align-items: center;
   gap: 2px;
+  
 }
 
 .blinking h1::after {
