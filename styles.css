@@ -28,6 +28,10 @@ h1{
   cursor: pointer;
 }
 
+.nav a: hover{
+  color: #C5CFC5;
+}
+
 @keyframes cursor-blink {
   0% {
     opacity: 0;
