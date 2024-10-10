@@ -49,5 +49,6 @@ h1{
   width: 2px;
   height: 30px;
   background: #2D4654;
+  display: inline-block;
   animation: cursor-blink 1.5s steps(2) infinite;
 }
