@@ -17,17 +17,13 @@ h1{
 }
 
 .nav{
-  height: 25px;
-  width: 100%;
-  box-sizing: border-box;
-  position: fixed;
   background-color: #2D4654;
   text-align: center;
 }
 
 .nav a{
   text-decoration: none;
-  padding: 10px 10px 10px 10px;
+  padding: 10px 10px;
   font-size: 25px;
   color: #87BCDE;
   display: inline-block;
@@ -45,6 +41,5 @@ h1{
   width: 2px;
   height: 30px;
   background: #2D4654;
-  display: inline-block;
   animation: cursor-blink 1.5s steps(2) infinite;
 }
