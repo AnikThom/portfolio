@@ -40,44 +40,16 @@ h1{
   cursor: pointer;
 }
 
-.nav a:hover {
-  color: #E7EBC5;
-}
-
-.nav .closebtn {
-  position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
-}
 
 @media screen and (max-height: 450px) {
   .nav {padding-top: 15px;}
   .nav a {font-size: 18px;}
 }
 
-.menu{
-    font-size:35px;
-    font-weight:700;
-    margin-top: 10px;
-}
-
-.menuBtn{
-  background-color: #2D4654;
-  color: #87BCDE;
-  border-radius: 15px 40px 25px 5px;
-  width: 5%;
-  height: 50px;
-  padding: 15px;
-}
-
-.menuBtn:hover{
-  background-color: #6885A1;
-  color: #E7EBC5;
-}
-
-#move {
-  transition: margin-left .5s;
-  padding: 16px;
+.blinking h1::after {
+  content: "";
+  width: 5px;
+  height: 20px;
+  background: #243B4A;
+  display: inline-block;
 }
