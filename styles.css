@@ -17,6 +17,10 @@ h2{
   text-align: center;
 }
 
+p{
+  text-align: center;
+}
+
 a{
   white-space: nowrap;
   text-decoration-line: none;
