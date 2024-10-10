@@ -32,7 +32,7 @@ a{
   text-align: center;
 }
 
-.nav a{
+a .hov: hover{
   text-decoration: none;
   padding: 10px 10px;
   font-size: 25px;
