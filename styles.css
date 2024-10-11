@@ -36,17 +36,13 @@ a{
   text-align: center;
 }
 
-.hov a: hover{
+ a .hov: hover{
   text-decoration: none;
   padding: 10px 10px;
   font-size: 25px;
   color: #87BCDE;
   display: inline-block;
   cursor: pointer;
-}
-
-.nav a: hover{
-  color: #C5CFC5;
 }
 
 .centerimg{
