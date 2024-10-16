@@ -25,7 +25,11 @@ p{
 a{
   text-decoration: none;
   text-align: center;
-  color: #87BCDE;
+  color: #2D4654;
+}
+
+a:hover{
+  color: #0d1b22;
 }
 
 .nav{
