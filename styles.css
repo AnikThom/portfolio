@@ -28,7 +28,7 @@ p{
 a{
   text-decoration: none;
   text-align: center;
-  color: #2D4654;
+  color: #87BCDE;
 }
 
 .nav{
@@ -36,13 +36,19 @@ a{
   text-align: center;
 }
 
- a .hov: hover{
+.nav a{
   text-decoration: none;
   padding: 10px 10px;
   font-size: 25px;
   color: #87BCDE;
   display: inline-block;
   cursor: pointer;
+}
+
+#hov a:hover{
+
+    color: #b0dcf8;
+
 }
 
 .centerimg{
