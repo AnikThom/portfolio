@@ -62,6 +62,8 @@ a:hover{
   width: 2px;
   height: 30px;
   background: #11222B;
+  display: inline-block;
+  white-space: no-wrap;
   animation: cursor-blink 1.5s steps(2) infinite;
 }
 
