@@ -57,6 +57,22 @@ a:hover{
   display: block;
 }
 
+.contacts{
+  text-align: center;
+  white-space: nowrap;
+  display: inline-block;
+  color: white;
+  width: 45px;
+
+}
+
+
+.contactdisplay{
+  margin-top: 10%;
+  position: relative;
+  text-align: center;
+}
+
 .blinking::after {
   content: "";
   width: 2px;
