@@ -81,7 +81,7 @@ a:hover{
 }
 
 .imgdisplay{
-  display: inline-block;
+  display: block;
   margin-left: 5%;
   margin-right: 5%;
 }
