@@ -9,18 +9,9 @@ body{
   background-color: #A3B2C5;
 }
 
-h1{
-  text-align: center;
-  margin-top: 20px;
-} 
 
-h2{
-  text-align: center;
-}
 
-p{
-  text-align: center;
-}
+
 
 a{
   text-decoration: none;
@@ -57,6 +48,27 @@ a:hover{
   display: block;
 }
 
+.heroimg{
+
+  top: 20%;
+  right: 0;
+  position: absolute;
+
+}
+
+.display{
+
+  position: relative;
+  margin-left: 100px;
+
+}
+
+.displaycont{
+
+  display: inline-block;
+
+}
+
 .contacts{
   text-align: center;
   white-space: nowrap;
@@ -65,6 +77,7 @@ a:hover{
   width: 45px;
 
 }
+
 
 .contactdisplay{
   position: relative;
