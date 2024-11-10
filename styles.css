@@ -66,18 +66,12 @@ a:hover{
 }
 
 .contacts{
-  text-align: center;
+  text-align: right;
   white-space: nowrap;
   display: inline-block;
   color: white;
   width: 35px;
 
-}
-
-
-.contactdisplay{
-  position: relative;
-  text-align: center;
 }
 
 .blinking::after {
