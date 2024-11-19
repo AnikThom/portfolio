@@ -118,9 +118,15 @@ a:hover{
 }
 
 .header1{
-
 font-size: 35px;
-  
+}
+
+.header2{
+text-align: center;
+}
+
+.header3{
+text-align: center;
 }
 
 .displaycenter{
@@ -253,9 +259,15 @@ a:hover{
 }
 
 .header1{
-
 font-size: 50px;
+}
   
+.header2{
+text-align: center;
+}
+
+.header3{
+text-align: center;
 }
   
 }
@@ -379,9 +391,15 @@ a:hover{
 }
 
 .header1{
-
 font-size: 50px;
-  
+}
+
+.header2{
+text-align: center;
+}
+
+.header3{
+text-align: center;
 }
   
 }
@@ -505,9 +523,15 @@ a:hover{
 }
 
 .header1{
-
 font-size: 50px;
-  
+}
+
+.header2{
+text-align: center;
+}
+
+.header3{
+text-align: center;
 }
 
 }
