@@ -45,7 +45,10 @@ a:hover{
 }
 
 .heroimg{
-  display: none;
+  top: 20%;
+  right: 0;
+  position: absolute;
+  display: block;
 }
 
 .display{
@@ -140,6 +143,7 @@ text-align: center;
   
 @media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
 @media (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+
 @media (min-width:961px)  {  /* tablet, landscape iPad, lo-res laptops ands desktops */ 
   body{
   font-family: "Proza Libre", sans-serif;
@@ -188,6 +192,7 @@ a:hover{
   right: 0;
   position: absolute;
   display: block;
+  height: 612px;
 }
 
 .display{
@@ -320,6 +325,7 @@ a:hover{
   right: 0;
   position: absolute;
   display: block;
+  height: 612px;
 }
 
 .display{
@@ -452,6 +458,7 @@ a:hover{
   right: 0;
   position: absolute;
   display: block;
+  height: 612px;
 }
 
 .display{
