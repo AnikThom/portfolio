@@ -214,6 +214,7 @@ a:hover{
 .display{
   position: relative;
   margin-left: 100px;
+  text-align: left;
 }
 
 .displaycont{
@@ -370,6 +371,7 @@ a:hover{
 .display{
   position: relative;
   margin-left: 100px;
+  text-align: left;
 }
 
 .displaycont{
@@ -468,7 +470,7 @@ text-align: left;
   
 }
 @media (min-width:1281px) {  /* hi-res laptops and desktops */ 
-  body{
+body{
   font-family: "Proza Libre", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -526,6 +528,7 @@ a:hover{
 .display{
   position: relative;
   margin-left: 100px;
+  text-align: left;
 }
 
 .displaycont{
