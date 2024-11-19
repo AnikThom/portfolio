@@ -110,6 +110,9 @@ a:hover{
   border: #1a3747 solid;
   cursor: pointer;
 }
+  .me{
+    height: 5%;
+}
 }
 @media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
 @media (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
@@ -222,6 +225,10 @@ a:hover{
   border: #1a3747 solid;
   cursor: pointer;
 }
+  
+.me{
+    height:450px;
+  }
 }
 @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */
   body{
@@ -332,6 +339,10 @@ a:hover{
   border: #1a3747 solid;
   cursor: pointer;
 }
+
+.me{
+    height:450px;
+  }
 }
 @media (min-width:1281px) {  /* hi-res laptops and desktops */ 
   body{
@@ -442,4 +453,9 @@ a:hover{
   border: #1a3747 solid;
   cursor: pointer;
 }
+
+.me{
+    height:450px;
+  }
+
 }
