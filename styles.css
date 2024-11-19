@@ -50,6 +50,11 @@ a:hover{
   position: absolute;
   display: block;
 }
+  
+.herosizing{
+  height:306px;
+  opacity: 50%;
+}
 
 .display{
   position: relative;
@@ -195,6 +200,10 @@ a:hover{
   height: 612px;
 }
 
+.herosizing{
+  height:612px;
+}
+
 .display{
   position: relative;
   margin-left: 100px;
@@ -336,6 +345,10 @@ a:hover{
   height: 612px;
 }
 
+.herosizing{
+  height:612px;
+}
+
 .display{
   position: relative;
   margin-left: 100px;
@@ -475,6 +488,10 @@ a:hover{
   position: absolute;
   display: block;
   height: 612px;
+}
+
+.herosizing{
+  height:612px;
 }
 
 .display{
