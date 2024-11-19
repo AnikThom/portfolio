@@ -134,7 +134,8 @@ text-align: center;
 }
 
 .displaycenter{
-text-align: center;
+  text-align: center;
+  display: block;
 }
   
 }
