@@ -275,6 +275,10 @@ text-align: center;
 .header3{
 text-align: center;
 }
+
+.pclass{
+text-align: left;
+}
   
 }
 @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */
@@ -408,6 +412,10 @@ text-align: center;
 .header3{
 text-align: center;
 }
+
+.pclass{
+text-align: left;
+}
   
 }
 @media (min-width:1281px) {  /* hi-res laptops and desktops */ 
@@ -540,6 +548,10 @@ text-align: center;
 
 .header3{
 text-align: center;
+}
+
+.pclass{
+text-align: left;
 }
 
 }
