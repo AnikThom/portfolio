@@ -71,7 +71,7 @@ a:hover{
 }
 
 .imgdisplay{
-  display: flex;
+  display: block;
   margin-top: 5%;
   margin-bottom: 10%;
 }
