@@ -67,7 +67,7 @@ a:hover{
 
 .img{
   border: #11222B solid 2px;
-  box-shadow: -10px 15px 5px;
+  box-shadow: -5px 10px 5px;
 }
 
 .imgdisplay{
@@ -120,6 +120,12 @@ a:hover{
 .header1{
 
 font-size: 35px;
+  
+}
+
+.displaycenter{
+
+text-align: center;
   
 }
   
