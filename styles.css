@@ -47,13 +47,13 @@ a:hover{
 .heroimg{
   top: 20%;
   right: 0;
-  position: absolute;
+  position: relative;
   display: block;
 }
   
 .herosizing{
   height:306px;
-  opacity: 50%;
+  opacity: 100%;
 }
 
 .display{
