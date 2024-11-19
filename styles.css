@@ -279,6 +279,11 @@ text-align: center;
 .pclass{
 text-align: left;
 }
+
+.displaycenter{
+  text-align: left;
+  display: block;
+}
   
 }
 @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */
@@ -416,6 +421,11 @@ text-align: center;
 .pclass{
 text-align: left;
 }
+
+.displaycenter{
+  text-align: left;
+  display: block;
+}
   
 }
 @media (min-width:1281px) {  /* hi-res laptops and desktops */ 
@@ -552,6 +562,11 @@ text-align: center;
 
 .pclass{
 text-align: left;
+}
+
+.displaycenter{
+  text-align: left;
+  display: block;
 }
 
 }
