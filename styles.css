@@ -129,10 +129,12 @@ text-align: center;
 text-align: center;
 }
 
-.displaycenter{
-
+.pclass{
 text-align: center;
-  
+}
+
+.displaycenter{
+text-align: center;
 }
   
 }
